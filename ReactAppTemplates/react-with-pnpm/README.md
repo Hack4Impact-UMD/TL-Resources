@@ -4,7 +4,7 @@
 ## Installing
 * Watch this [useful video](https://www.youtube.com/watch?v=MvbReZDSKHI&ab_channel=CodinginPublic)
 * Read the [docs](https://pnpm.io/installation)
-* Run "npm i -g pnpm"
+* Install pnpm by running "npm i -g pnpm"
 * Make sure it's successfully installed by cloning this repo and running "pnpm i" which should install node_modules
 
 ## Useful Commands
