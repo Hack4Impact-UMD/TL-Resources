@@ -22,7 +22,7 @@ from this dropdown.
 
 Then, on the left hand side, you should see a bunch of options. Scroll all the way down and click
 "Account Management". 
-![image](https://github.com/Hack4Impact-UMD/TL-Resources/assets/99225264/570a14ff-715b-419d-a73d-685f6f285ce8 | height = 100)
+![image](https://github.com/Hack4Impact-UMD/TL-Resources/assets/99225264/570a14ff-715b-419d-a73d-685f6f285ce8 | height=400)
 
 The account management tab should look something like this. Go to the right hand side, click "Add Principal".
 Under "Add Principals", add the NPOs email, assign them the role of "Billing Account Administrator", and hit
