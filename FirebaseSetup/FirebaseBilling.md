@@ -26,5 +26,19 @@ Then, on the left hand side, you should see a bunch of options. Scroll all the w
 
 The account management tab should look something like this. Go to the right hand side, click "Add Principal".
 Under "Add Principals", add the NPOs email, assign them the role of "Billing Account Administrator", and hit
-save. Now your work is done, and the NPO does the rest.
+save. The last thing to do is to copy the URL of this page (the account management page) and send that to the NPO. Now your work is done, and the NPO does the rest.
 ![image](https://github.com/Hack4Impact-UMD/TL-Resources/assets/99225264/8aa47bfa-044d-41d0-9ca5-af8df90c2c14)
+
+# Changing the Billing Info
+The first step for the NPO is to go to their email and accept the invite and join the Firebase project. Then, they go to the URL
+that you sent them which takes them to the account management page. 
+They should click this dropdown which can be found on the left hand side of their screen. Then click "Manage Billing Accounts"
+followed by "Create Account".
+![image](https://github.com/Hack4Impact-UMD/TL-Resources/assets/99225264/77aa4b4c-8bbc-429b-a6c0-6046c43957fb).
+
+Once the billing account is created, they need to go back to the URL that you sent to them and click the 3 dots under actions.
+Then click "Change Billing" and select the new billing account that they created. Finally, click "set account" to confirm.
+![image](https://github.com/Hack4Impact-UMD/TL-Resources/assets/99225264/54ccd834-2752-4020-ac42-ca251b9b0bcf)
+
+
+
