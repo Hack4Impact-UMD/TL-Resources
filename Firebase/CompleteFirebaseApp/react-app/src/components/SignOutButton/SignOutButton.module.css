@@ -1,0 +1,10 @@
+.submitButton {
+  background-color: #08529e !important;
+  color: white !important;
+  font-family: "Source-Serif 4", serif !important;
+}
+.submitButton:mui-focused {
+  background-color: #08529e !important;
+  color: white !important;
+  font-family: "Source-Serif 4", serif !important;
+}
