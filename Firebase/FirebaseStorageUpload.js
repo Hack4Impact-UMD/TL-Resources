@@ -15,11 +15,18 @@ const onUpload = async () => {
 
   const storageRef = ref(storage, randomName + "." + fileExtension);
 
-  await uploadBytes(storageRef, new Uint8Array(file.content));
+  await uploadBytes(storageRef, file);
   const downloadURL = await getDownloadURL(storageRef);
   changedFiles.push({
     name: file.name,
     ref: randomName + "." + fileExtension,
     downloadURL: downloadURL,
   });
+};
+
+const handleDelete = async (file) => {
+  const desertRef = ref(storage, file.ref);
+
+  // Delete the file
+  await eleteObject(desertRef);
 };
